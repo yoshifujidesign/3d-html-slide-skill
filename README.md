@@ -1,5 +1,6 @@
 # 3D HTML Slide Skill
 <img width="1913" height="1039" alt="WS002985" src="https://github.com/user-attachments/assets/7d150a1c-73ee-429a-8315-8be2650ebe11" />
+
 *生成されるスライドの一例*
 
 
