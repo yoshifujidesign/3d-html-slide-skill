@@ -2,6 +2,7 @@
 <img width="1913" height="1039" alt="WS002985" src="https://github.com/user-attachments/assets/7d150a1c-73ee-429a-8315-8be2650ebe11" />
 *生成されるスライドの一例*
 
+
 ワイヤーフレームデザインのモーション設定済みHTMLスライドを生成する、Claude Code 用の Skill です。
 
 「3DワイヤーフレームHTMLスライドを作って」とClaudeに伝えるだけで、Three.jsの3D背景・横スクロール・テーマカラー自動切替を備えた単一HTMLファイルのプレゼンスライドが生成されます。
